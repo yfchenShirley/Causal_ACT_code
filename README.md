@@ -4,7 +4,7 @@ This repo is modified based on Tony Zhao's implementation (https://github.com/to
 
 
     conda activate aloha
-    cd <path to act repo>
+    cd causal_ACT/
 
 ### For a quick run on the trained Causal-ACT:
     
