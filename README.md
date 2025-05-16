@@ -1,6 +1,7 @@
 # Causal-ACT: Causal Structure Learned Action Chunking Transformers
 
 This repo is modified based on Tony Zhao's implementation (https://github.com/tonyzhaozh/act).
+License is in the causal_ACT folder.
 
 
     conda activate aloha
